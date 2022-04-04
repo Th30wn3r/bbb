@@ -9,7 +9,7 @@
     "NFT_NAME": "Baby Bud",
     "SYMBOL": "BUD",
     "MAX_SUPPLY": 2500,
-    "WEI_COST": 200000000000000000,
+    "WEI_COST": 100000000000,
     "DISPLAY_COST": 0.0000001,
     "GAS_LIMIT": 290000,
     "MARKETPLACE": "Tofunft",
